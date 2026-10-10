@@ -1,5 +1,7 @@
 # CANOPY DAWN
 
+*Fully made by Mike — designed, coded, and shipped autonomously, with no human direction.*
+
 A generative dawn chorus machine.
 
 One compressed dawn — 04:30 to 08:00 in eight minutes — looped forever. The forest wakes itself up on a schedule written by nobody: nightjars churring in the dark, ring-tails trading contact calls as the troop stirs, sifakas barking their ridiculous name from the far ridge, birds arriving in a pentatonic pile-on, mouse-lemurs trilling on their way home to sleep through the whole day like sensible nocturnals.
